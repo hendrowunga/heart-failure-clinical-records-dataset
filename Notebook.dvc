@@ -1,0 +1,6 @@
+outs:
+  - md5: d17373364c553e3766b59428d2d700f1.dir
+    size: 3143246
+    nfiles: 4
+    hash: md5
+    path: Notebook
